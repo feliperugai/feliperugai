@@ -33,6 +33,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     59 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 % 
+C#           41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+JSON         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Git Config   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JavaScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 <!--END_SECTION:waka-->
