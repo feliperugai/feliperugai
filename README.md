@@ -23,11 +23,6 @@
 
 <code><img src="https://github-readme-stats.vercel.app/api?username=feliperugai&show_icons=true&theme=dracula" alt="abhisheknaiidu" /></code>
 
-### ⚡ Recent activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ### 📊 This Week I Spent My Time On
 
