@@ -28,10 +28,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.62 % 
-TypeScript   2 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 % 
-JSON         51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-HTML         40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
