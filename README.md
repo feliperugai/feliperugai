@@ -28,6 +28,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 mins          ███████████████████▓░░░░░   78.51 % 
+
 ```
 <!--END_SECTION:waka-->
