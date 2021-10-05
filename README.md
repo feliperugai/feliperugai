@@ -28,6 +28,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Markdown     2 hrs 8 mins    █████████████████████▓░░░   86.95 % 
+Bash         16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
