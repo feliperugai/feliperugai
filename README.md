@@ -28,7 +28,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-AutoHotkey   34 mins         ██████████████████████▒░░   89.28 % 
-JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+
 ```
 <!--END_SECTION:waka-->
