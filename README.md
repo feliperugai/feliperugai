@@ -19,9 +19,13 @@
 
 <br/>
 
+### Me on Stack Overflow
+<img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4669594&theme=dracula" alt="Stack Overflow Stats" />
+
+
 ### 📈 My GitHub Stats
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=feliperugai&show_icons=true&theme=dracula" alt="abhisheknaiidu" /></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=feliperugai&show_icons=true&theme=dracula" alt="Github Stats" /></code>
 
 
 ### 📊 This Week I Spent My Time On
