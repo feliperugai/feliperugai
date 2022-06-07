@@ -33,9 +33,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.18 %
-Docker       2 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Other        1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+TypeScript   10 hrs 2 mins   ██████████████▒░░░░░░░░░░   57.82 %
+Other        2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
 ```
 
 <!--END_SECTION:waka-->
