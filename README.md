@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         1 hr 39 mins    ████████████████░░░░░░░░░   63.97 %
-TypeScript   53 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
