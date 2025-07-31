@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          6 hrs 30 mins   ████████████████░░░░░░░░░   63.82 %
-Kotlin              1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-YAML                52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-Bash                24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Gradle Kotlin DSL   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+TypeScript          6 hrs 30 mins   █████████████████▓░░░░░░░   70.80 %
+Kotlin              1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+HTML                18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Batchfile           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Gradle Kotlin DSL   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
